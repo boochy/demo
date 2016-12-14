@@ -1,0 +1,6 @@
+2016-12-12 17:42:32,904 INFO com.aliyun.oss.demo.HelloOSS: Started
+2016-12-12 17:42:33,536 INFO com.aliyun.oss: Illegal file path: README.md
+2016-12-12 17:42:33,537 INFO com.aliyun.oss.demo.HelloOSS: Completed
+2016-12-12 17:44:33,689 INFO com.aliyun.oss.demo.HelloOSS: Started
+2016-12-12 17:44:34,236 INFO com.aliyun.oss: Illegal file path: README.md
+2016-12-12 17:44:34,237 INFO com.aliyun.oss.demo.HelloOSS: Completed
